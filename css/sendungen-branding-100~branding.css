@@ -1,0 +1,33 @@
+/* tapete */
+div.wrapper:before,
+div.wrapper:after { display: none; }
+body { background-color: #fff; background-image: none; }
+/* tapete */
+/* header/footer */
+h1.logo { top: -1999em; }
+div.area a {cursor:pointer;display:block;}
+div.area { display: block; }
+div.area a > span { background-image: none; display: block; width: 238px; height: 150px; top: 0; left: 2.4%; font-size: .6875em; text-indent: -1999px; overflow: hidden; position: absolute; }
+div.area a > span:before { display: block; width: 100%; text-indent: 0; position: absolute; top: 0; }
+div.area a > span:before { content: url("../images/sprite_brf_logo_links-106~_v-original_-4490982a09ce564896c0546e698c092a87185c1e.png"); }
+#footer_branding { display: none; } /* kann irgendwann mal in die header_footer.css */
+/* //header/footer */
+/* #################### breakpoint 1270px #################### */
+@media only screen and (max-width: 1270px) {
+div.wrapper:before,
+div.wrapper:after {display:none;}
+}
+/* #################### breakpoint 640px #################### */
+@media only screen and (max-width: 640px) {
+/* Kann evtl. irgenwann mal in die breakpoints.css rein */
+body.responsive div.header_branding { height: 70px; }
+body.responsive div.area a > span { height: 70px; width: 130px; left: 12px; }
+body.responsive div.area a > span:before { top: -150px; }
+body.responsive { background: ; }
+}
+/* #################### //breakpoint 640px [S] #################### */
+/* #################### breakpoint 350px #################### */
+@media only screen and (max-width: 350px) {
+body.responsive div.area a > span { left: 0; }
+}
+/* #################### //breakpoint 350px #################### */

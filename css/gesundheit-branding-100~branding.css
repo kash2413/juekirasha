@@ -1,0 +1,142 @@
+.detail h1.detail_headline em,
+.news_block p strong,
+body.contenttype_modular #content_wrapper > section div.detail .detail_modul .detail_paragraph h2 em,
+.timeline > ul > li > em.ui-accordion-header-active { color: #36603a; }
+.timeline > ul > li > em.ui-accordion-header-active:before { background-color: #36603a; border-color: #36603a; }
+.teaser .teaser_overline,
+.box_standard.most ol.catchline li:before,
+body.contenttype_modular #content_wrapper > section div.detail .detail_modul.quote .detail_paragraph h2 em:before,
+div.quotationbox div.qb_content:before,
+div.quotationbox.qb_picture blockquote.qb_text p:before { color: #36603a; }
+.teaser em.teaser_flag { background-color: #36603a; color: #fff; }
+body.contenttype_modular #modularNav li.active:before,
+body.contenttype_modular #modularNav li:hover:before,
+body.contenttype_modular #content_wrapper > section div.detail .detail_modul.poll .detail_paragraph form.form_global input[type="radio"]:checked + span.styled_radio:before { background-color: #36603a; }
+body.contenttype_modular #content_wrapper > section div.detail .detail_modul.poll .detail_paragraph form.form_global button[type="submit"] { background-color: #36603a; border-color: #36603a; }
+#program_stage ul.program li div.broadcast a:hover,
+#program_stage ul.program li div.broadcast a:hover span,
+#program_stage ul.program li div.broadcast a:focus,
+#program_stage ul.program li div.broadcast a:focus span,
+#program_stage ul.program li div.broadcast a:active,
+#program_stage ul.program li div.broadcast a:active span,
+#program_stage ul.program li.active div.playing,
+#program_stage ul.program li.active div.broadcast,
+#program_stage ul.program li.active div.broadcast span.channel,
+#program_stage ul.program li.active div.status,
+#program_stage ul.program li.active div.status div.remaining-time,
+#program_stage ul.program li.active a span.name,
+#program_stage ul.program li.active a span.channel,
+#program_stage ul.program li.active a span.time,
+#program_stage.broadcast ul.program li div.broadcast a:hover,
+#program_stage.broadcast ul.program li div.broadcast a:hover span,
+#program_stage.broadcast ul.program li div.broadcast a:focus,
+#program_stage.broadcast ul.program li div.broadcast a:focus span,
+#program_stage.broadcast ul.program li div.broadcast a:active,
+#program_stage.broadcast ul.program li div.broadcast a:active span,
+#program_stage.broadcast ul.program li.active div.playing,
+#program_stage.broadcast ul.program li.active div.broadcast,
+#program_stage.broadcast ul.program li.active div.broadcast span.channel,
+#program_stage.broadcast ul.program li.active div.status,
+#program_stage.broadcast ul.program li.active div.status div.remaining-time,
+#program_stage.broadcast ul.program li.active span.name,
+#program_stage.broadcast ul.program li.active span.time,
+#program_stage ul.program li.nextBroadcast.rollover div.next,
+#program_stage ul.program li.nextBroadcast.rollover a,
+#program_stage ul.program li.nextBroadcast.rollover span,
+#program_stage.broadcast ul.program li.nextBroadcast.rollover div.next,
+#program_stage.broadcast ul.program li.nextBroadcast.rollover div.broadcast,
+#program_stage.broadcast ul.program li.nextBroadcast.rollover div.broadcast a span { color: #262626; }
+div.ticker h3.ticker_label { color: #262626; }
+div.broadcast_navi_content ul li a,
+div.broadcast_navi_content ul.level_2 li a { color: #262626; }
+.bcast_live_btn .live_btn_txt { color: #262626; }
+#program_stage ul.timezones li a:focus,
+#program_stage ul.timezones li a:hover,
+#program_stage ul.timezones li.active a { border-top: 3px solid #ffffff; }
+#program_stage ul.program li div.broadcast a:hover,
+#program_stage ul.program li div.broadcast a:hover span,
+#program_stage ul.program li div.broadcast a:focus,
+#program_stage ul.program li div.broadcast a:focus span,
+#program_stage ul.program li div.broadcast a:active,
+#program_stage ul.program li div.broadcast a:active span,
+#program_stage ul.program li.active div.playing,
+#program_stage ul.program li.active div.broadcast,
+#program_stage ul.program li.active div.broadcast span.channel,
+#program_stage ul.program li.active div.status,
+#program_stage ul.program li.active div.status div.remaining-time,
+#program_stage ul.program li.active a span.name,
+#program_stage ul.program li.active a span.channel,
+#program_stage ul.program li.active a span.time,
+#program_stage.broadcast ul.program li div.broadcast a:hover,
+#program_stage.broadcast ul.program li div.broadcast a:hover span,
+#program_stage.broadcast ul.program li div.broadcast a:focus,
+#program_stage.broadcast ul.program li div.broadcast a:focus span,
+#program_stage.broadcast ul.program li div.broadcast a:active,
+#program_stage.broadcast ul.program li div.broadcast a:active span,
+#program_stage.broadcast ul.program li.active div.playing,
+#program_stage.broadcast ul.program li.active div.broadcast,
+#program_stage.broadcast ul.program li.active div.broadcast span.channel,
+#program_stage.broadcast ul.program li.active div.status,
+#program_stage.broadcast ul.program li.active div.status div.remaining-time,
+#program_stage.broadcast ul.program li.active span.name,
+#program_stage.broadcast ul.program li.active span.time,
+#program_stage ul.program li.nextBroadcast.rollover div.next,
+#program_stage ul.program li.nextBroadcast.rollover a,
+#program_stage ul.program li.nextBroadcast.rollover span,
+#program_stage.broadcast ul.program li.nextBroadcast.rollover div.next,
+#program_stage.broadcast ul.program li.nextBroadcast.rollover div.broadcast,
+#program_stage.broadcast ul.program li.nextBroadcast.rollover div.broadcast a span { background:#ffffff; }
+div.ticker h3.ticker_label { background-color:#ffffff; }
+div.ticker h3.ticker_label:after { border-left-color: #ffffff; }
+div.broadcast_navi_content,
+div.broadcast_navi_box_foot { background:#ffffff; }
+div.broadcast_navi_label em span,
+div.broadcast_navi_label em span a { color: #262626; }
+div.broadcast_navi ul.level_1 li.active > span,
+div.broadcast_navi ul.level_1 li > a:focus,
+div.broadcast_navi ul.level_1 li > a:hover,
+div.broadcast_navi ul.level_1 li.active > a,
+div.broadcast_navi li ul.level_2 li a:focus,
+div.broadcast_navi li ul.level_2 li a:hover,
+div.broadcast_navi li ul.level_2 li.active a { color: #262626; }
+div.broadcast_navi_label { background: #05ee24; }
+div.broadcast_navi ul.level_1 li.active > span,
+div.broadcast_navi ul.level_1 li > a:focus,
+div.broadcast_navi ul.level_1 li > a:hover,
+div.broadcast_navi ul.level_1 li.active > a { background: #05ee24; }
+div.broadcast_navi li ul.level_2 li a:focus,
+div.broadcast_navi li ul.level_2 li a:hover,
+div.broadcast_navi li ul.level_2 li.active a { background: #05ee24; }
+/* tapete */
+/* tapete */
+/* header/footer */
+div.header_branding { display: block; height: 150px; overflow: hidden; background-image: none; background-color: transparent; position: relative; padding-bottom: 0; }
+div.header_branding:before { position: absolute; top: 0; }
+div.header_branding:before { content: url("../images/header_gross_gesundheit-102~_v-original_-4490982a09ce564896c0546e698c092a87185c1e.jpg"); }
+h1.logo { top: -1999em; }
+div.area a {cursor:pointer;display:block;}
+div.sub_area a > span { text-indent:-9999px; background-image: none; display: block; width: 358px; height: 150px; top: 0; right: 2.4%; font-size: 18px; line-height: 150px; overflow: hidden; position: absolute; padding-bottom: 0; text-align: left; }
+div.sub_area a > span:before { display: block; width: 100%; top: 0; text-indent: 0; position: absolute; top: 0; }
+div.sub_area a > span:before { content: url("../images/sprite_gesundheit_2016_logo_rechts-100~_v-original_-4490982a09ce564896c0546e698c092a87185c1e.png"); }
+#footer_branding { display: none; } /* kann irgendwann mal in die header_footer.css */
+/* //header/footer */
+/* #################### breakpoint 1270px #################### */
+@media only screen and (max-width: 1270px) {
+div.wrapper:before,
+div.wrapper:after {display:none;}
+}
+/* #################### breakpoint 640px #################### */
+@media only screen and (max-width: 640px) {
+/* Kann evtl. irgenwann mal in die breakpoints.css rein */
+body.responsive div.header_branding { height: 70px; }
+body.responsive div.header_branding:before { content: url("../images/header_klein_gesundheit-102~_v-original_-4490982a09ce564896c0546e698c092a87185c1e.jpg"); }
+body.responsive div.sub_area a > span { height: 70px; width: 190px; right: 12px; line-height: 70px; font-size: 11px; }
+body.responsive div.sub_area a > span:before { top: -150px; left: -168px; }
+body.responsive div.ticker h3.ticker_label:after { border-left-color: transparent; border-top-color: #ffffff; }
+}
+/* #################### //breakpoint 640px [S] #################### */
+/* #################### breakpoint 350px #################### */
+@media only screen and (max-width: 350px) {
+body.responsive div.sub_area a > span { right: 0; }
+}
+/* #################### //breakpoint 350px #################### */
